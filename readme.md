@@ -17,3 +17,13 @@ python3 main.py -h
 ```
 
 --help will work also...
+
+---
+
+How it works?
+Check the help 😊
+
+
+---
+
+Open to comments and PRs
