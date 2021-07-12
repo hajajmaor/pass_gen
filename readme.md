@@ -14,7 +14,7 @@ python3 main.py
 
 - option 2:
 
-After adding the executu premissions
+After adding the execute premissions
 
 ```apache
 chmod +x main.py
